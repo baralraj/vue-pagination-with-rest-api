@@ -1,4 +1,4 @@
-# Vue Pagination example using axios with REST API (external libraries)
+# Vue Pagination example using axios with REST API
 
 ## Project setup
 
