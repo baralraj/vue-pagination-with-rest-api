@@ -82,12 +82,6 @@ export default {
     onChangeRecordsPerPage() {
       this.loadListItem();
     },
-    gotoPage() {
-      if (!isNaN(parseInt(this.enterpageno))) {
-        this.page = parseInt(this.enterpageno);
-        this.loadListItem();
-      }
-    },
   },
 };
 </script>
